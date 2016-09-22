@@ -1,4 +1,4 @@
-<!-- note that the tag name matches the place holder one in my index page -->
+<!-- note that the tag name here matches the same place holder tag "hello" in my index page -->
 <hello>
   <!-- Include your HTML first and use curly braces to interpolate values -->
   <p>Hello { name }!</p>
